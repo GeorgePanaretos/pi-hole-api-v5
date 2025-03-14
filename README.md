@@ -1,14 +1,15 @@
-                                       ------------------------------------------------------------------------
-                                       | 🚨🚨🚨 **‼ WARNING ‼ PI-HOLE API SUPPORTS ONLY VERSION 5!** 🚨🚨🚨|
-                                       |----------------------------------------------------------------------|
-                                       | The Pi-hole API is **only compatible with version 5 (v5)**           |
-                                       | due to major authentication changes in **version 6 (v6)**.           |
-                                       | In v6, the traditional API token method has been **removed**         |
-                                       | or **replaced**, affecting API access and automation.                |
-                                       | Ensure you are using **v5** or refer to the latest                   |
-                                       | documentation for alternative authentication methods.                |
-                                       ------------------------------------------------------------------------  
-
+```md
+------------------------------------------------------------------------
+| 🚨🚨🚨 **‼ WARNING ‼ PI-HOLE API SUPPORTS ONLY VERSION 5!** 🚨🚨🚨|
+|----------------------------------------------------------------------|
+| The Pi-hole API is **only compatible with version 5 (v5)**           |
+| due to major authentication changes in **version 6 (v6)**.           |
+| In v6, the traditional API token method has been **removed**         |
+| or **replaced**, affecting API access and automation.                |
+| Ensure you are using **v5** or refer to the latest                   |
+| documentation for alternative authentication methods.                |
+------------------------------------------------------------------------
+```
 
 
 # PI-hole (DNS Monitor and Blocker) API Calls
